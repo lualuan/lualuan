@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner_laun.svg" alt="Laun — projetos, ideias e aprendizado" width="100%" />
+  <img src="banner_laun.svg" alt="Luan — projetos, ideias e aprendizado" width="100%" />
 
   <br/>
 
