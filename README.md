@@ -1,25 +1,41 @@
-# Olá! Eu sou o Laun 👋
+<div align="center">
+  <img src="assets/banner_laun.svg" alt="Laun — projetos, ideias e aprendizado" width="100%" />
 
-🚀 Aprendendo, criando e compartilhando minha evolução.
+  <br/>
 
-## ✨ Sobre mim
+  ### Olá! Eu sou o Laun 👋
 
-Gosto de explorar novas ideias, desenvolver projetos e aprender cada vez mais sobre tecnologia.
+  Bem-vindo ao meu espaço no GitHub. 🚀
 
-## 🧩 O que você encontra por aqui
-
-- 💡 Projetos pessoais
-- 📚 Estudos de programação
-- 🛠️ Experimentos e novas habilidades
-
-## 🧰 Tecnologias
-
-Em constante aprendizado e evolução.
-
-## 📌 Projetos
-
-Confira meus repositórios para acompanhar minha jornada.
+  <sub>Aprendendo, criando e compartilhando minha evolução.</sub>
+</div>
 
 ---
 
-*Feito com curiosidade, dedicação e vontade de aprender. ✦*
+### ✨ Sobre mim
+
+Gosto de explorar novas ideias e usar este espaço para organizar meus estudos, experiências e projetos.
+
+Por aqui você vai encontrar iniciativas que refletem meu aprendizado e meu interesse por tecnologia.
+
+### 🧩 O que você encontra por aqui
+
+- 💡 **Projetos pessoais** — ideias que coloco em prática.
+- 📚 **Aprendizado** — conteúdos e desafios que me ajudam a evoluir.
+- 🛠️ **Experimentação** — diferentes maneiras de resolver problemas.
+
+### 🧰 Tecnologias
+
+*Esta seção será personalizada com as tecnologias que eu realmente utilizo.*
+
+<!-- Quando o Laun confirmar suas habilidades, substitua a frase acima por ícones e uma tabela de tecnologias. -->
+
+### 📌 Projetos
+
+Veja os repositórios públicos logo abaixo no perfil para conhecer o que venho desenvolvendo.
+
+---
+
+<div align="center">
+  <sub>Feito com curiosidade, dedicação e vontade de aprender. ✦</sub>
+</div>

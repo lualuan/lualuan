@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Laun — projetos, ideias e aprendizado">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080e20"/><stop offset=".55" stop-color="#142046"/><stop offset="1" stop-color="#202b57"/></linearGradient>
+  <linearGradient id="v" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#73ead8"/><stop offset=".48" stop-color="#74c8fc"/><stop offset="1" stop-color="#b6a7ff"/></linearGradient>
+  <radialGradient id="light"><stop stop-color="#5f58db" stop-opacity=".54"/><stop offset="1" stop-color="#5f58db" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#819dc2" opacity=".06" fill="none" stroke-width="1"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="9"/></filter>
+</defs>
+<rect width="1200" height="380" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="380" rx="24" fill="url(#grid)"/>
+<circle cx="990" cy="165" r="245" fill="url(#light)"/>
+<circle cx="1098" cy="11" r="183" fill="#383a87" opacity=".28"/>
+<path d="M0 365 C145 310 260 402 429 354 S715 325 825 365" fill="none" stroke="#425c97" opacity=".43" stroke-width="2"/>
+<g font-family="Arial, Helvetica, sans-serif">
+ <rect x="73" y="61" width="8" height="24" rx="4" fill="#69e8d7"/>
+ <text x="99" y="79" font-size="16" font-weight="bold" fill="#b8cadf" letter-spacing="4">MEU ESPAÇO NO GITHUB</text>
+ <text x="70" y="200" font-size="114" font-weight="800" fill="#f7fbff" letter-spacing="-4">LAUN<tspan fill="#72e8d7">.</tspan></text>
+ <text x="74" y="253" font-size="28" fill="#f2f5ff" font-weight="600">Projetos, ideias e aprendizado</text>
+ <text x="74" y="295" font-size="20" fill="#a8c1de">Explorando, criando e evoluindo um passo de cada vez.</text>
+</g>
+<!-- Abstract original illustration, no unverified technical skill claims -->
+<g transform="translate(880 192)">
+ <circle r="148" stroke="#7878d9" stroke-opacity=".35" stroke-width="2" fill="none"/>
+ <circle r="111" stroke="#77e6dc" stroke-opacity=".35" stroke-width="2" fill="none" stroke-dasharray="6 12"/>
+ <circle cx="0" cy="-148" r="7" fill="#84efe0"/>
+ <circle cx="111" cy="0" r="7" fill="#b4a8ff"/>
+ <circle cx="-128" cy="76" r="5" fill="#79baf1"/>
+ <g transform="rotate(-12)">
+ <rect x="-79" y="-88" width="159" height="176" rx="28" fill="#0b1a33" stroke="url(#v)" stroke-width="3"/>
+ <path d="M-21 -43L-53 -9L-21 24" fill="none" stroke="#7de9e3" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M22 -43L54 -9L22 24" fill="none" stroke="#afa3ff" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M9 -56L-9 40" fill="none" stroke="#eef6fc" stroke-width="8" stroke-linecap="round"/>
+ <rect x="-51" y="57" width="101" height="5" rx="2" fill="#264c68"/>
+ </g>
+</g>
+<g fill="#8bb7ef" opacity=".65"><circle cx="1166" cy="123" r="3"/><circle cx="664" cy="71" r="4"/><circle cx="697" cy="105" r="2"/><circle cx="1118" cy="303" r="4"/></g>
+<rect x="1" y="1" width="1198" height="378" rx="23" stroke="#6480a5" stroke-opacity=".35" stroke-width="2" fill="none"/>
+</svg>
